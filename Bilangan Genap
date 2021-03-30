@@ -1,0 +1,10 @@
+run:
+Masukkan panjang data yang ingin di inputkan : 4
+Masukkan bilangan GENAP sebanyak 4 kali!
+Bilangan genap ke-1 : 12
+Bilangan genap ke-2 : 14
+Bilangan genap ke-3 : 16
+Bilangan genap ke-4 : 18
+
+Bilangan yang Anda masukkan : 12 14 16 18 
+Bilangan setelah diurutkan  : 12 14 16 18 BUILD SUCCESSFUL (total time: 13 seconds)

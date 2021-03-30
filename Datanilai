@@ -1,0 +1,11 @@
+run:
+Masukkan Banyaknya Data Nilai: 4
+Masukkan Data Nilai ke-1: 23
+Masukkan Data Nilai ke-2: 69
+Masukkan Data Nilai ke-3: 98
+Masukkan Data Nilai ke-4: 30
+--------------------------------
+Nilai minimum = 23
+Nilai maksimum = 98
+Nilai Rata-Ratanya adalah =  55
+BUILD SUCCESSFUL (total time: 20 seconds)
